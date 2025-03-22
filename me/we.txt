@@ -3,6 +3,11 @@ hhd sdsjdkjkj aj
 vxnbnbsdcmanscna
 yes am testing it
 
+<<<<<<< HEAD
 Just trying this restore out
 25613557613871017268182863
 1284789674790901-0847653426
+=======
+Can I still remember all these steps
+i'm wondering if I should make notes
+>>>>>>> a924f3b58096558efc36149f04f751969da53914
